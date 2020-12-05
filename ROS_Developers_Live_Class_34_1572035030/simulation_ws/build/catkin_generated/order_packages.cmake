@@ -1,0 +1,26 @@
+# generated from catkin/cmake/em/order_packages.cmake.em
+
+set(CATKIN_ORDERED_PACKAGES "")
+set(CATKIN_ORDERED_PACKAGE_PATHS "")
+set(CATKIN_ORDERED_PACKAGES_IS_META "")
+set(CATKIN_ORDERED_PACKAGES_BUILD_TYPE "")
+list(APPEND CATKIN_ORDERED_PACKAGES "cartpole_description")
+list(APPEND CATKIN_ORDERED_PACKAGE_PATHS "cart_pole/cartpole_description")
+list(APPEND CATKIN_ORDERED_PACKAGES_IS_META "False")
+list(APPEND CATKIN_ORDERED_PACKAGES_BUILD_TYPE "catkin")
+list(APPEND CATKIN_ORDERED_PACKAGES "cartpole_v0_training")
+list(APPEND CATKIN_ORDERED_PACKAGE_PATHS "cart_pole/cartpole_v0_training")
+list(APPEND CATKIN_ORDERED_PACKAGES_IS_META "False")
+list(APPEND CATKIN_ORDERED_PACKAGES_BUILD_TYPE "catkin")
+list(APPEND CATKIN_ORDERED_PACKAGES "gym_construct")
+list(APPEND CATKIN_ORDERED_PACKAGE_PATHS "open_ai_gym_construct/gym_construct")
+list(APPEND CATKIN_ORDERED_PACKAGES_IS_META "False")
+list(APPEND CATKIN_ORDERED_PACKAGES_BUILD_TYPE "catkin")
+list(APPEND CATKIN_ORDERED_PACKAGES "openai_ros")
+list(APPEND CATKIN_ORDERED_PACKAGE_PATHS "openai_ros/openai_ros")
+list(APPEND CATKIN_ORDERED_PACKAGES_IS_META "False")
+list(APPEND CATKIN_ORDERED_PACKAGES_BUILD_TYPE "catkin")
+
+set(CATKIN_MESSAGE_GENERATORS )
+
+set(CATKIN_METAPACKAGE_CMAKE_TEMPLATE "/usr/local/lib/python2.7/dist-packages/catkin_pkg/templates/metapackage.cmake.in")

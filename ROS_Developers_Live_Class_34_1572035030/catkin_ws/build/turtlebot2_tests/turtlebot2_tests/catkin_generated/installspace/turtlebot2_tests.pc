@@ -1,0 +1,8 @@
+prefix=/home/user/catkin_ws/install
+
+Name: turtlebot2_tests
+Description: Description of turtlebot2_tests
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/user/catkin_ws/install/lib 
+Requires: 

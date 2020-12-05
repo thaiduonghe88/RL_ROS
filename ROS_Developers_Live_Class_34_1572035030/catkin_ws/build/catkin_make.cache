@@ -1,0 +1,2 @@
+cartpole_test:openai_ros/openai_ros
+-DCATKIN_DEVEL_PREFIX=/home/user/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/user/catkin_ws/install -G Unix Makefiles
